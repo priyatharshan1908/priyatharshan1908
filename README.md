@@ -3,9 +3,8 @@
 - 🌱 I’m currently Persuing Data science & Machine Learnings
 - 💞️ I’m Looking To Collaborate On ...
 - 📫 How To Reach Me ...
+  Mails- clevertechmind@gmail.com,errortolearn@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: ...
-
 
 priyatharshan1908/priyatharshan1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
